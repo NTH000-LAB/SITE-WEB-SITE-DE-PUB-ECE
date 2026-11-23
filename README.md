@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="200" alt="GOODMOOD">
+  <img src="assets/logo.png" width="500" alt="GOODMOOD">
 </p>
-
 # GOODMOOD
 
 ### La pause qui met de bonne humeur.
