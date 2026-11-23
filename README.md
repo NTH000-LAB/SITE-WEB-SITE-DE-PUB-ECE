@@ -1,95 +1,96 @@
 
 <div align="center">
+  <img src="assets/logo.png" width="240" alt="GOODMOOD">
 
-  <img src="assets/logo.png" width="280" alt="GOODMOOD Logo">
+  <h1>GOODMOOD</h1>
+  <p><strong>La pause qui met de bonne humeur.</strong></p>
 
-  # GOODMOOD
-
-  **La pause qui met de bonne humeur.**
-
-  ![Vegan](https://img.shields.io/badge/100%25-VEGAN-4C956C?style=for-the-badge)
-  ![Projet](https://img.shields.io/badge/PROJET-2026--2027-F4C95D?style=for-the-badge)
-  ![ECE](https://img.shields.io/badge/ECE-LYON-315C45?style=for-the-badge)
-  ![Sup de Pub](https://img.shields.io/badge/SUP%20DE%20PUB-PARTNER-E8A44A?style=for-the-badge)
+  <p>
+    <img src="https://img.shields.io/badge/100%25-VEGAN-527A5A?style=flat-square" alt="100% Vegan">
+    <img src="https://img.shields.io/badge/PROJECT-2026--2027-D8B95A?style=flat-square" alt="2026-2027">
+    <img src="https://img.shields.io/badge/ECE-×-527A5A?style=flat-square" alt="ECE">
+    <img src="https://img.shields.io/badge/SUP_DE_PUB-PARTNER-D8B95A?style=flat-square" alt="Sup de Pub">
+  </p>
 
   <br>
 
-  **Manger mieux, sans renoncer au plaisir.**
-
+  <p>
+    <em>Eat good. Feel good.</em>
+  </p>
 </div>
 
 ---
 
-## 🌱 À propos
+## 🌿 Le projet
 
-**GOODMOOD** est un concept de restauration rapide **100 % vegan**, développé dans le cadre d'un projet collaboratif entre l'**ECE Lyon** et **Sup de Pub**, pour l'année universitaire 2026–2027.
+**GOODMOOD** est un concept de restauration rapide **100 % vegan**, imaginé dans le cadre d'un projet collaboratif entre l'**ECE Lyon** et **Sup de Pub**, pour l'année universitaire 2026–2027.
 
-Notre ambition est de repenser la restauration rapide en proposant une alternative végétale, gourmande et accessible, adaptée aux habitudes de consommation des jeunes adultes de **18 à 30 ans**.
+Notre ambition est simple : rendre l'alimentation végétale plus gourmande, accessible et attractive auprès des jeunes adultes de 18 à 30 ans.
 
-GOODMOOD repose sur une idée simple : prouver que manger végétal peut être synonyme de plaisir, de modernité et de convivialité.
+À travers une identité de marque moderne et un concept de restauration convivial, GOODMOOD souhaite proposer une autre vision du fast-food : plus végétale, sans compromis sur le plaisir.
 
-## 🎯 Notre concept
+## ✳️ Notre vision
 
-- 🥑 **100 % végétal** — Une offre entièrement vegan.
-- 🍔 **Gourmand** — Des recettes pensées pour privilégier le goût et le plaisir.
-- 🌍 **Responsable** — Une approche de la restauration tournée vers une consommation plus durable.
-- ⚡ **Accessible** — Une expérience de restauration rapide adaptée aux jeunes adultes.
+| | |
+|:---:|:---|
+| 🥑 | **Végétal** — Une offre entièrement vegan. |
+| 🍔 | **Gourmand** — Le plaisir au cœur de chaque recette. |
+| 🌱 | **Responsable** — Une approche tournée vers une consommation plus durable. |
+| ☀️ | **Accessible** — Un concept pensé pour les habitudes des jeunes adultes. |
 
-## 🌐 Découvrir GOODMOOD
+## 🎨 Identité & maquette
+
+L'univers GOODMOOD repose sur une identité visuelle chaleureuse, fraîche et moderne, en accord avec les valeurs du projet.
+
+La maquette du site vitrine a été réalisée sur **Framer** afin de présenter l'univers graphique et l'expérience envisagée.
 
 <div align="center">
 
-  **Explorez notre identité et notre univers visuel.**
+  <a href="https://framer.com/projects/GOODMOOD-Site-vitrine--MG9Srg6qVM2lccDHUJUW-eJcvg">
+    <img src="https://img.shields.io/badge/FRAMER-EXPLORER%20LA%20MAQUETTE-527A5A?style=for-the-badge&logo=framer&logoColor=white" alt="Voir la maquette Framer">
+  </a>
 
-  [![Website](https://img.shields.io/badge/DÉCOUVRIR-LE%20SITE%20GOODMOOD-4C956C?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/projects/GOODMOOD-Site-vitrine--MG9Srg6qVM2lccDHUJUW-eJcvg)
+  <p><sub>Prototype graphique · Réalisé avec Framer</sub></p>
 
 </div>
 
-## 🛠️ Technologies & outils
+## ⚙️ Environnement technique
 
-Les technologies et outils utilisés dans le cadre du projet :
+Les outils et technologies mobilisés dans le cadre du projet :
 
-| Technologie | Utilisation |
-|:---|:---|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) | Structure des pages web |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) | Mise en forme et design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Interactivité |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Gestion des versions |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Collaboration et hébergement du code |
-| ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) | Conception du site vitrine |
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer">
+</p>
 
 ## 👥 L'équipe
 
-Le projet réunit deux équipes complémentaires, associant développement informatique et communication.
+Un projet réalisé en collaboration entre deux équipes aux compétences complémentaires.
 
-### 💻 ECE Lyon — Développement
+**ECE Lyon · Développement**
 
-| Membre | 
-|:---|
-| Sore Ibrahim Chalide |
-| Kouassi Jean |
-| Abdollahi Fatemeh |
-| Bounouar Rayyan |
+- Sore Ibrahim Chalide
+- Kouassi Jean
+- Abdollahi Fatemeh
+- Bounouar Rayyan
 
-### 📢 Sup de Pub — Communication
+**Sup de Pub · Communication**
 
-| Membre |
-|:---|
-| Lily Guilloret |
-| Laura Orcel |
+- Lily Guilloret
+- Laura Orcel
 
 **Chef de projet :** Sore Ibrahim Chalide
 
 ---
 
 <div align="center">
+  <img src="assets/logo.png" width="90" alt="GOODMOOD">
 
-  **GOODMOOD © 2026–2027**
-
-  <sub>Un projet étudiant réalisé en collaboration entre l'ECE Lyon et Sup de Pub.</sub>
-
-  <br>
-
-  ![GOODMOOD](https://img.shields.io/badge/GOODMOOD-Eat%20Good.%20Feel%20Good.-4C956C?style=flat-square)
-
+  <p><strong>GOODMOOD</strong></p>
+  <p><sub>Un projet collaboratif ECE Lyon × Sup de Pub</sub></p>
+  <p><sub>2026 — 2027</sub></p>
 </div>
