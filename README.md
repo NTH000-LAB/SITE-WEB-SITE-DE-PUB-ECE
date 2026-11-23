@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="500" alt="GOODMOOD">
+  <img src="assets/logo.png" width="300" alt="GOODMOOD">
 </p>
 # GOODMOOD
 
