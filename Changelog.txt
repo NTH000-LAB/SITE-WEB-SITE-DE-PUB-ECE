@@ -1,6 +1,0 @@
-12/12/2026 :
-- création de Changelog.txt
-- update de Changelog.txt
-- update de README.md ( upadate de la redirection du lien pour la maquette )
-- upload de index.html dans html/
-
