@@ -46,7 +46,7 @@ La maquette du site vitrine a été réalisée sur **Framer** afin de présenter
 
 <div align="center">
 
-  <a href="https://framer.com/projects/GOODMOOD-Nouvelle-direction-tudiante--xItqxWOAdaBep8SQN556-asSZg?node=augiA20Il">
+  <a href="https://framer.com/projects/GOODMOOD-Nouvelle-direction-tudiante--xItqxWOAdaBep8SQN556-asSZg">
     <img src="https://img.shields.io/badge/FRAMER-EXPLORER%20LA%20MAQUETTE-527A5A?style=for-the-badge&logo=framer&logoColor=white" alt="Voir la maquette Framer">
   </a>
 
